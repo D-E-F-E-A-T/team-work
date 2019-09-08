@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.Toplist {
+  background-color: rgb(240, 87, 171);
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+  .Toplist a {
+    text-decoration: none;
+  color: black;
+}
+.heading {
+padding-right: 30cm;
+font-size: 25px
+}
+.listInUL {
+    text-align: right;
+   
+}
+.listItem {
+  list-style-type: none;
+  display: inline;
+  margin-right: 20px;
+vertical-align: middle;
+ 
+}
