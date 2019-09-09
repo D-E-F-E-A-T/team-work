@@ -1,29 +1,66 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 .Toplist {
   background-color: rgb(240, 87, 171);
 
-font-family: Georgia, 'Times New Roman', Times, serif;
-  
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
-  .Toplist a {
-    text-decoration: none;
+.Toplist a {
+  text-decoration: none;
   color: black;
 }
 .heading {
-padding-right: 30cm;
-font-size: 25px
+  padding-right: 30cm;
+  font-size: 25px;
 }
 .listInUL {
-    text-align: right;
-   
+  text-align: right;
 }
 .listItem {
   list-style-type: none;
   display: inline;
   margin-right: 20px;
-vertical-align: middle;
+  vertical-align: middle;
+}
+.Navigation {
+text-align: center;
+padding-top: 1cm;
+
+}
+.list {
+  list-style-type: none;
+  display: inline;
+
  
+}
+.list a {
+    text-decoration: none; 
+    padding-right: 1.9cm; 
+    font-size: 20px;
+    color: rgb(240, 164, 206);
+}
+.navList {
+    text-align: right; 
+ 
+ text-align: right;
+}
+#workplace {
+background-color: peachpuff;
+border: none;
+border-top: 3px solid rgb(240, 164, 206);
+padding-left: 45px;
+text-align: center;
+display: inline-block;
+margin: 0px 40px;
+border-radius: 5px; 
+font-size: 30px
+
+}
+img {
+    height: 200px;
+    width: 500px;
+    border-radius: 70%;
+    float: left;
 }
