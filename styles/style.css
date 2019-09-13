@@ -7,7 +7,7 @@
   text-align: center;
   height: 600px;
   vertical-align: middle;
-  background-image: url(/Images/pic2.jpg);
+  background-image: url(/team-work/Images/pic2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -26,6 +26,7 @@
 .head a {
   color: white;
   text-decoration: none;
+
 }
 .navigation {
   float: right;
