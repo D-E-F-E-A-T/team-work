@@ -28,8 +28,9 @@ loginAccount2 = () => {
 };
 loginIn.addEventListener("mouseout", loginAccount2);
 
-var name = document.querySelector("profile");
-profilePage = () => {
-  name.textContent = profile;
+var name = document.querySelector(".workplaceInput");
+groupCh = () => {
+ alert("hoho");
+  
 };
-name.addEventListener("mouseover", profilePage);
+name.addEventListener("click", groupCh);
